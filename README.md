@@ -1,4 +1,4 @@
-hello-word-with-chinese
+hello-world-with-chinese
 =======================
 
-try to traslate hello word in chinese
+try to traslate hello world in chinese
